@@ -2,8 +2,8 @@
 name: Bug Report
 about: Report a new bug
 title: ''
-labels: ''
-assignees: ''
+labels: bug
+assignees: ERROPiX
 
 ---
 
