@@ -2,8 +2,8 @@
 name: Feature Request
 about: Request a new feature
 title: ''
-labels: ''
-assignees: ''
+labels: enhancement
+assignees: ERROPiX
 
 ---
 
